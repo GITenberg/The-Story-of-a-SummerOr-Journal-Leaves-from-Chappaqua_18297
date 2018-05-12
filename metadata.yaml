@@ -1,0 +1,30 @@
+_repo: The-Story-of-a-SummerOr-Journal-Leaves-from-Chappaqua_18297
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cleveland, Cecilia Pauline
+    birthdate: 1850
+    gutenberg_agent_id: '7928'
+    url: http://www.gutenberg.org/2009/agents/7928
+description: ''
+gutenberg_bookshelf: Women's Travel Journals
+gutenberg_issued: '2006-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18297'
+  lccn: '22022811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chappaqua (N.Y.)'
+- !lcsh 'Greeley family'
+- !lcc 'PS'
+title: 'The Story of a Summer
+
+  Or, Journal Leaves from Chappaqua'
+url: http://www.gutenberg.org/ebooks/18297
